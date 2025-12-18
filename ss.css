@@ -38,7 +38,7 @@ body {
 form {
     margin:10px;
 }
-form select,input{
+form select{
     width:100%;
 }
 #ep{
@@ -54,4 +54,5 @@ form select,input{
     align-items: center;
     background-color: steelblue;
     color: white;
+
 }
