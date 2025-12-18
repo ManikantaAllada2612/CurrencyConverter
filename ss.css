@@ -1,0 +1,57 @@
+* {
+    padding:0;
+    margin:0;
+}
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4e4ba;
+}
+.amount {
+    margin-top: 30px;
+}
+.container {
+    background-color: white;
+    padding:5px;
+    height:50vh;
+    width:50vh;
+    margin-top: 30px;
+}
+.d {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+.sc {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.ie {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form {
+    margin:10px;
+}
+form select,input{
+    width:100%;
+}
+#ep{
+    margin-top:10px;
+    text-align: center;
+}
+#eb {
+    margin-top:20px;
+    display: flex;
+    width:90%;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: steelblue;
+    color: white;
+}
